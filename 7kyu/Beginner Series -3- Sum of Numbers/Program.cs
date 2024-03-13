@@ -43,3 +43,7 @@ class Program
         return sum;
     }
 }
+// возможные решения
+// 1 - return (a + b) * (Math.Abs(a - b) + 1) / 2;
+// 2 - return Enumerable.Range(Math.Min(a,b), Math.Max(b,a)-Math.Min(b,a)+1).Sum();
+// 3 - return Enumerable.Range(a < b ? a : b, Abs(a - b) + 1).Sum();
