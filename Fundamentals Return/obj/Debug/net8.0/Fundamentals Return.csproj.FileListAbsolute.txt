@@ -1,0 +1,14 @@
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\bin\Debug\net8.0\Fundamentals Return.exe
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\bin\Debug\net8.0\Fundamentals Return.deps.json
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\bin\Debug\net8.0\Fundamentals Return.runtimeconfig.json
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\bin\Debug\net8.0\Fundamentals Return.dll
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\bin\Debug\net8.0\Fundamentals Return.pdb
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.AssemblyInfoInputs.cache
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.AssemblyInfo.cs
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.csproj.CoreCompileInputs.cache
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.dll
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\refint\Fundamentals Return.dll
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.pdb
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\Fundamentals Return.genruntimeconfig.cache
+C:\Users\tursu\RiderProjects\CodeWars\Fundamentals Return\obj\Debug\net8.0\ref\Fundamentals Return.dll
