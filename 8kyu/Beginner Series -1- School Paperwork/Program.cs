@@ -12,7 +12,7 @@ namespace Beginner_Series__1__School_Paperwork;
 
 internal class Program
 {
-    private static void Main()
+    static void Main()
     {
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
