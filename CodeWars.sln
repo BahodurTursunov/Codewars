@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total amount of points", "Total amount of points\Total amount of points.csproj", "{58FD5735-0DC8-435A-AB9B-7F54A82B0DF2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8kyu", "8kyu", "{56CDF456-A427-4C1A-BD85-DC9C627676B9}"
@@ -9,6 +12,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner Series -2- Clock", "Beginner Series -2- Clock\Beginner Series -2- Clock.csproj", "{AA469E49-996D-4468-960D-7FB1B4B08799}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals Return", "Fundamentals Return\Fundamentals Return.csproj", "{23EADB0B-1CB6-4418-A4BB-63C0CED98A27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the smallest integer in the array", "8kyu\Find the smallest integer in the array\Find the smallest integer in the array.csproj", "{A2619C30-359F-466E-AFD8-C4F760098ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Char", "..\..\source\repos\CodeWars\8kyu\Code\Double Char\Double Char.csproj", "{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate BMI", "Calculate BMI\Calculate BMI.csproj", "{1427C41B-6406-43EA-B577-D402E598C54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area or Perimeter", "Area or Perimeter\Area or Perimeter.csproj", "{9266F201-86ED-4539-873D-D6B17B6EE36F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,11 +43,37 @@ Global
 		{23EADB0B-1CB6-4418-A4BB-63C0CED98A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23EADB0B-1CB6-4418-A4BB-63C0CED98A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23EADB0B-1CB6-4418-A4BB-63C0CED98A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2619C30-359F-466E-AFD8-C4F760098ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2619C30-359F-466E-AFD8-C4F760098ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2619C30-359F-466E-AFD8-C4F760098ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2619C30-359F-466E-AFD8-C4F760098ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1427C41B-6406-43EA-B577-D402E598C54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1427C41B-6406-43EA-B577-D402E598C54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1427C41B-6406-43EA-B577-D402E598C54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1427C41B-6406-43EA-B577-D402E598C54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9266F201-86ED-4539-873D-D6B17B6EE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9266F201-86ED-4539-873D-D6B17B6EE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9266F201-86ED-4539-873D-D6B17B6EE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9266F201-86ED-4539-873D-D6B17B6EE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{58FD5735-0DC8-435A-AB9B-7F54A82B0DF2} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
 		{EEC7B533-6DD5-47E0-89F8-8E14AA7B100A} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
 		{AA469E49-996D-4468-960D-7FB1B4B08799} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
 		{23EADB0B-1CB6-4418-A4BB-63C0CED98A27} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
+		{A2619C30-359F-466E-AFD8-C4F760098ED2} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
+		{A75B1800-E2AE-43B7-A2FA-B5F61599D7C9} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
+		{1427C41B-6406-43EA-B577-D402E598C54E} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
+		{9266F201-86ED-4539-873D-D6B17B6EE36F} = {56CDF456-A427-4C1A-BD85-DC9C627676B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA995AF-D677-43B5-AAA7-2A2C36F9E9F4}
 	EndGlobalSection
 EndGlobal

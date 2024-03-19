@@ -38,3 +38,21 @@ class Program
 }
  */
 
+/*
+  public static int FindSmallestInt(int[] args) 
+    {
+      return Enumerable.Min(args);
+    }
+ */
+
+
+/*
+ public static int FindSmallestInt(int[] args) 
+    {
+      Array.Sort(args);
+      
+      return args[0];
+    }
+ */
+
+//return (from e in args orderby e ascending select e).FirstOrDefault();
